@@ -8,6 +8,7 @@
  * @width: Width
  * @precision: Precision specification
  * @size: Size specifier
+ * It takes a list of arguments, a buffer array to handle printing, calculates active flags, specifies the width, precision, and size.
  * Return: Number of chars printed
  */
 int print_char(va_list types, char buffer[],
