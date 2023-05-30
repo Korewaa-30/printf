@@ -4,7 +4,8 @@
  * get_size - Calculates the size to cast the argument
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to be printed.
- * This function calculates the appropriate size to cast the argument based on the format string and the list of arguments.
+ * This function calculates the appropriate size to cast the argument
+ * based on the format string and the list of arguments.
  *
  * Return: Precision.
  */
