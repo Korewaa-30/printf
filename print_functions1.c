@@ -8,7 +8,8 @@
  * @width: get width
  * @precision: Precision specification
  * @size: Size specifier
- * This function handles the list of arguments, buffer array, flags,width, precision,
+ * This function handles the list of arguments,
+ * buffer array, flags,width, precision,
  * and size specifications to print an unsigned number.
  * Return: Number of chars printed.
  */
