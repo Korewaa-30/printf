@@ -5,7 +5,8 @@ void print_buffer(char buffer[], int *buff_ind);
 /**
  * _printf - Printf function
  * @format: format.
- * This function is responsible for printing formatted output based on the provided format string.
+ * This function is responsible for printing formatted output
+ * based on the provided format string.
  * Return: Printed chars.
  */
 int _printf(const char *format, ...)
